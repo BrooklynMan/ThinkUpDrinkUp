@@ -1,2 +1,2 @@
 # ThinkUpDrinkUp
-A school drinking game for iOS
+A social drinking game for iOS
